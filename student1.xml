@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student1.xsl"?>
+<class>
+<Gamer Id="401">
+<name>Deep Patel</name>
+<Username>Killer_Boy</Username>
+<age>19</age>
+<Game>PUBG</Game>
+</Gamer>
+<Gamer Id="402">
+<name>Varun Mota</name>
+<Username>Varonx28700</Username>
+<age>20</age>
+<Game>Valorant</Game>
+</Gamer>
+<Gamer Id="403">
+<name>Niraj Sharma</name>
+<Username>Niraj_Killer</Username>
+<age>19</age>
+<Game>Counter Strike</Game>
+</Gamer>
+<Gamer Id="404">
+<name>Yash Dholam</name>
+<Username>King_Cobra</Username>
+<age>20</age>
+<Game>Tekken7</Game>
+</Gamer>
+<Gamer Id="405">
+<name>Yash Govekar</name>
+<Username>Op_sprayer</Username>
+<age>20</age>
+<Game>PUBG</Game>
+</Gamer>
+<Gamer Id="406">
+<name>Vishal Vishwakarma</name>
+<Username>Son_Goku</Username>
+<age>20</age>
+<Game>Jump Force</Game>
+</Gamer>
+<Gamer Id="407">
+<name>Abhishek Gupta</name>
+<Username>Assasin_Abhi</Username>
+<age>20</age>
+<Game>Assasins Creed Odessey</Game>
+</Gamer>
+<Gamer Id="408">
+<name>Aayush Sharma</name>
+<Username>Pro''Ayu</Username>
+<age>20</age>
+<Game>GTA V</Game>
+</Gamer>
+<Gamer Id="409">
+<name>Abhinav Sharma</name>
+<Username>Maha_Kaal</Username>
+<age>20</age>
+<Game>tekken 7</Game>
+</Gamer>
+<Gamer Id="410">
+<name>Faiz Ansari</name>
+<Username>Op_Sniper</Username>
+<age>20</age>
+<Game>Valorant</Game>
+</Gamer>
+</class>

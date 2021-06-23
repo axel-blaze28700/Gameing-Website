@@ -1,0 +1,41 @@
+h1{
+color: White;
+font-family: "Algerian";
+font-size: 400%;
+text-align:center;
+}
+
+p {
+ color: White;
+  font: small-caps bold calbri;
+   font-size: 150%;
+}
+
+h2{
+color: white;
+font-family: "Times New Roman";
+font-size: 150% bold;
+}
+
+h3{
+ background-color: crimson;
+color: white;
+font-family: "Times New Roman";
+font-size: 170%;
+text-align:center;
+}
+
+img {
+  border-radius: 8px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(100, 180, 286, 225);
+}
+
+h1_1{
+color: dodgerblue;
+font-family: "Algerian";
+font-size: 400%;
+text-align:center;
+}

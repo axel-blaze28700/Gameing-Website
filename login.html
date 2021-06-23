@@ -1,0 +1,57 @@
+<html>
+
+<head>
+<title>Login</title>
+<link rel="stylesheet" href="mystyle.css" />
+<style> 
+input[type=text] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=button], input[type=submit], input[type=reset] {
+  background-color:grey;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+<script>
+function validateForm()
+{var Email = document.forms["LoginForm"]["email"];
+var Password=document.forms["LoginForm"]["password"]if(Email.value == "")
+
+{
+alert("Please enter your Email."); 
+return false;
+} 
+if(Password.value == "")
+{
+alert("Please enter your Password."); 
+return false;
+}
+return true;
+}
+</script>
+</head>
+<body background="sign.jpg">
+<font color="white">
+<h1>LOGIN</h1>
+<form name="LoginForm" action="" method="post" onsubmit="return validateForm()"><h2>Email:<br>
+<input type="text" "[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" placeholder="Enter Email" 
+name="email" autocomplete="off" class="em" size="50"><br>
+Password:<br>
+<input type="text" placeholder="Enter Password" name="password" 
+autocomplete="off" size="50"><br>
+<input type="submit" value="LOGIN" class="reg">
+<input type="reset" value="RESET"class="re">
+</form>
+<br><hr>
+<h2>Performed by 428_Varun Mota</h2>
+</body>
+</html>
